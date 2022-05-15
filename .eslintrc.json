@@ -21,6 +21,8 @@
     "eslint-plugin-import-helpers"
   ],
   "rules": {
+    "no-unused-vars": "off",
+    "max-classes-per-file": "off",
     "consistent-return": "off",
     "no-restricted-syntax": "off",
     "no-underscore-dangle": "off",
