@@ -5,6 +5,6 @@ module.exports = {
   coverageDirectory: 'coverage',
   testEnvironment: 'node',
   transform: {
-    '.+\\.ts$': 'ts-jest'
-  }
-}
+    '.+\\.ts$': 'ts-jest',
+  },
+};
